@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:300,400|Source+Sans+Pro:200,400,600');
+
+/* Side Navigation Styles */
+#sideNav{
+    width: 17rem;
+    height: 100vh;
+    background: #f0b14c;
+    left: 0;
+    top: 0;
+    bottom: 0;
+
+}
+
+.profile-img {
+    border-radius: 50%;
+    margin-top: 5em;
+    margin-bottom: 0.5em;
+    width: 100%;
+    
+}
+ul {
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    padding-left: 0;
+}
+
+
+#content {
+    padding-left: 20rem;
+}
+
+
+/* Resume Head*/
+.resume-head {
+    color: #165493;
+}
+
+.resume-head .name {
+    text-transform: uppercase;
+    font-size: 3.5rem;
+    padding-bottom: 0;
+}
+
+.resume-head p {
+    margin: 0;
+    padding: 0;
+}
+
+section h2 {
+    color: #7AD1E4;
+}
